@@ -1,0 +1,6 @@
+{
+  "name": "Tuya Khánh Ròm",
+  "homeassistant": "2025.1.0",
+  "render_readme": true,
+  "persistent_directory": "templates"
+}
