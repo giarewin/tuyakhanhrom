@@ -8,11 +8,11 @@
 
 __A Home Assistant custom Integration for local handling of Tuya-based devices.__
 
-### **Usage and setup [Documentation](https://xzetsubou.github.io/hass-localtuya/)**
+### **Usage and setup [Documentation](https://giarewin.github.io/tuyakhanhrom/)**
 
 <br>
 
-[![Open your Home Assistant instance and open a repository inside the Home Assistant Community Store.](https://my.home-assistant.io/badges/hacs_repository.svg)](https://my.home-assistant.io/redirect/hacs_repository/?category=integration&repository=hass-localtuya&owner=xZetsubou)
+[![Open your Home Assistant instance and open a repository inside the Home Assistant Community Store.](https://my.home-assistant.io/badges/hacs_repository.svg)](https://my.home-assistant.io/redirect/hacs_repository/?category=integration&repository=tuyakhanhrom&owner=giarewin)
 
 
 
@@ -28,7 +28,7 @@ __A Home Assistant custom Integration for local handling of Tuya-based devices._
 
 <br>
 
-[𝐑𝐞𝐩𝐨𝐫𝐭𝐢𝐧𝐠 𝐚𝐧 𝐢𝐬𝐬𝐮𝐞](https://xzetsubou.github.io/hass-localtuya/report_issue/)
+[𝐑𝐞𝐩𝐨𝐫𝐭𝐢𝐧𝐠 𝐚𝐧 𝐢𝐬𝐬𝐮𝐞](https://giarewin.github.io/tuyakhanhrom/report_issue/)
 
 <!-- ### Notes
 
